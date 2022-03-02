@@ -1,0 +1,673 @@
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 251, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 251, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 252, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 252, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 253, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 253, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 254, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 254, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 255, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 255, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 256, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 256, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 257, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 257, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 258, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 258, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 259, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 259, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 260, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 260, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 261, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 261, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 262, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 262, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 263, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 263, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 264, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 264, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 265, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 265, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 266, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 266, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 267, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 267, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 268, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 268, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 269, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 269, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 270, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 270, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 271, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 271, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 272, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 272, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 273, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 273, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 274, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 274, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 275, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 275, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 276, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 276, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 277, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 277, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 278, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 278, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 279, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 279, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 280, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 280, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 281, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 281, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 282, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 282, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 283, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 283, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 284, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 284, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 285, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 285, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 286, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 286, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 287, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 287, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 288, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 288, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 289, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 289, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 290, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 290, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 291, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 291, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 292, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 292, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 293, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 293, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 294, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 294, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 295, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 295, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 296, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 296, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 297, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 297, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 298, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 298, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 299, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 299, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 300, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 300, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 301, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 301, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 302, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 302, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 303, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 303, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 304, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 304, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 305, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 305, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 306, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 306, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 307, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 307, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 308, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 308, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 309, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 309, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 310, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 310, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 311, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 311, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 312, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 312, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 313, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 313, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 314, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 314, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 315, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 315, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 316, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 316, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 317, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 317, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 318, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 318, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 319, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 319, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 320, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 320, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 321, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 321, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 322, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 322, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 323, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 323, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 324, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 324, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 325, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 325, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 326, 1, 1.00, 1.000, 4.900, 1.000, true, true, 1, true, (4.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 326, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 327, 1, 1.00, 1.000, 4.900, 1.000, true, true, 1, true, (4.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 327, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 328, 1, 1.00, 1.000, 3.900, 1.000, true, true, 1, true, (3.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 328, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 329, 1, 1.00, 1.000, 4.900, 1.000, true, true, 1, true, (4.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 329, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 330, 1, 1.00, 1.000, 3.900, 1.000, true, true, 1, true, (3.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 330, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 331, 1, 1.00, 1.000, 4.900, 1.000, true, true, 1, true, (4.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 331, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 332, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 332, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 333, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 333, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 334, 1, 1.00, 1.000, 2.900, 1.000, true, true, 1, true, (2.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 334, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 335, 1, 1.00, 1.000, 3.900, 1.000, true, true, 1, true, (3.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 335, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 336, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 336, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 337, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 337, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 338, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 338, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 339, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 339, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 340, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 340, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 341, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 341, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 342, 1, 1.00, 1.000, 9.900, 1.000, true, true, 1, true, (9.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 342, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 343, 1, 1.00, 1.000, 11.900, 1.000,true, true, 1, true, (11.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 343, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 344, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 344, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 345, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 345, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 346, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 346, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 347, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 347, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 348, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 348, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 349, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 349, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 350, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 350, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 351, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 351, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 352, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 352, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 353, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 353, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 354, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 354, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 355, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 355, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 356, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 356, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 357, 1, 1.00, 1.000, 10.900, 1.000,true, true, 1, true, (10.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 357, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 358, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 358, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 359, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 359, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 360, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 360, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 361, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 361, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 362, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 362, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 363, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 363, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 364, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 364, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 365, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 365, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 366, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 366, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 367, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 367, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 368, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 368, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 369, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 369, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 370, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 370, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 371, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 371, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 372, 1, 1.00, 1.000, 6.900, 1.000, true, true, 1, true, (6.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 372, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 373, 1, 1.00, 1.000, 8.900, 1.000, true, true, 1, true, (8.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 373, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 374, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 374, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 375, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 375, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 376, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 376, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 377, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 377, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 378, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 378, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 379, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 379, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 380, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 380, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 381, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 381, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 382, 1, 1.00, 1.000, 5.900, 1.000, true, true, 1, true, (5.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 382, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 383, 1, 1.00, 1.000, 7.900, 1.000, true, true, 1, true, (7.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 383, now(), 'R');
+
+insert into tbdetprodpres (idpres, idprod, idmoneda, tipocambio, preccom, precvta1, precvta, unimin, estado, equivalencia, actptjeganacia, prtjeganancia, peso, actptjedescuento, prtjedescuento, flete) 
+values (1, 384, 1, 1.00, 1.000, 4.900, 1.000, true, true, 1, true, (4.90-1.00)*100, 1.00, false, 0.00, 0.00);
+
+insert into tbdetprodusu (idusu, idprod, fecha, tipo) values (44, 384, now(), 'R');
+
+
+
+idusu, idprod, fecha, tipo
